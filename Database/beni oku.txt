@@ -1,0 +1,3 @@
+otobus_bilet.bak dosyasını sql server a restore etmeniz gerekiyor sadece
+
+ilgili konu video linki:https://www.youtube.com/watch?v=SxXwiSvrVNw

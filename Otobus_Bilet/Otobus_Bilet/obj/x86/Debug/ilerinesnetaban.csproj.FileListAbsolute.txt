@@ -1,0 +1,12 @@
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\bin\x86\Debug\ilerinesnetaban.exe.config
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\bin\x86\Debug\ilerinesnetaban.exe
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\bin\x86\Debug\ilerinesnetaban.pdb
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\obj\x86\Debug\ilerinesnetaban.csproj.AssemblyReference.cache
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\obj\x86\Debug\ilerinesnetaban.csproj.SuggestedBindingRedirects.cache
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\obj\x86\Debug\ilerinesnetaban.Form1.resources
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\obj\x86\Debug\ilerinesnetaban.Properties.Resources.resources
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\obj\x86\Debug\ilerinesnetaban.csproj.GenerateResource.cache
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\obj\x86\Debug\ilerinesnetaban.csproj.CoreCompileInputs.cache
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\obj\x86\Debug\ilerinesnetaban.exe
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\obj\x86\Debug\ilerinesnetaban.pdb
+C:\Users\GÜZELER\source\repos\ilerinesnetaban\ilerinesnetaban\obj\x86\Debug\ilerinesnetaban.Form2.resources
